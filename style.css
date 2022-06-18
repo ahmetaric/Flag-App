@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 0.8rem;
+  height: 100vh;
+  /* background: linear-gradient(to top left, #2e619c, #c0ceee); */
+  background-image: url("./img/banner-1082644_1920.jpg");
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+  background-position: center;
+}
+
+h1{
+  color: darkorange;
+  font-size: 5rem;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px #000;
+}
