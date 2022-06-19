@@ -1,3 +1,3 @@
 # Flag-App
 
-[click here!](https://ahmetaric.github.io/stopwatch/)
+[click here!](https://ahmetaric.github.io/Flag-App/)
